@@ -1,5 +1,0 @@
-1. http://localhost:2345/masteracc
-2. http://localhost:2345/savingsacc
-3. http://localhost:2345/fixedacc
-4. 
-5. http://localhost:2345/fixedacc/:id
